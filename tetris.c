@@ -5,7 +5,7 @@
 
 #define BLOCK_SIZE 4
 #define MAP_HEIGHT 20
-#define MAP_LENGTH 14
+#define MAP_LENGTH 14 //fakjse;l
 
 int random_select();
 bool check_collision(int temp_x, int temp_y, int temp_rotate);
